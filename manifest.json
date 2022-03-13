@@ -1,0 +1,20 @@
+{
+  "name": "Budget Tracker",
+  "short_name": "Budget",
+  "description": "An app that allows you to track your budget by adding and subtracting funds.",
+  "background_color": "#01579b",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/img/icons/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/icons/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+  
+}
