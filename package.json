@@ -34,6 +34,7 @@
   "devDependencies": {
     "sw-precache-webpack-plugin": "^1.0.0",
     "webpack": "^4.46.0",
-    "webpack-cli": "^4.6.0"
+    "webpack-cli": "^4.6.0",
+    "webpack-pwa-manifest": "^4.3.0"
   }
 }
