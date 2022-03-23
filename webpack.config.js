@@ -7,9 +7,6 @@ const path = require('path');
 const config = {
   entry: {
     app: './public/js/index.js',
-    // events: './assets/js/events.js',
-    // schedule: './assets/js/schedule.js',
-    // tickets: './assets/js/tickets.js'
   },
   output: {
     path: path.join(__dirname + "/dist"),
