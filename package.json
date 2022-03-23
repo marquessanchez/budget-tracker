@@ -2,6 +2,7 @@
   "name": "budget-app",
   "version": "1.0.0",
   "description": "",
+  "keywords": ["heroku"],
   "main": "server.js",
   "scripts": {
     "webpack": "webpack --watch",
@@ -26,8 +27,5 @@
     "express": "^4.17.1",
     "mongoose": "^5.5.15",
     "morgan": "^1.10.0"
-  },
-  "devDependencies": {
-    "webpack-pwa-manifest": "^4.3.0"
   }
 }
